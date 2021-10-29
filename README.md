@@ -1,1 +1,1 @@
-# bunicorn-game-proposals
+# Bunicorn Improvement Proposals (BIPs)
